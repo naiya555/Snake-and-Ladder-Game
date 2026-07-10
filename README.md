@@ -69,19 +69,19 @@ python snake_and_ladder.py
 
 ### 🖥️ Game Board
 
-![Game Board](assets/board.jpeg)
+![Game Board](assests/board.jpeg)
 
 ---
 
 ### 🪜 Ladder Event
 
-![Ladder Event](assets/ladder.jpeg)
+![Ladder Event](assests/ladder.jpeg)
 
 ---
 
 ### 🏆 Winner
 
-![Winner](assets/winner.jpeg)
+![Winner](assests/winner.jpeg)
 
 ---
 
