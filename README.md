@@ -12,7 +12,7 @@ A console-based Snake and Ladder game developed in Python. This project recreate
 
 - Two-player gameplay
 - Random dice rolling (1–6)
-- Players must roll **1** or **6** to enter the game
+- Players must roll **1** or **6** to enter/start the game
 - Snakes decrease the player's position
 - Ladders increase the player's position
 - Dynamic board display after every turn
