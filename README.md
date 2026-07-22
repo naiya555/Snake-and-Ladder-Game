@@ -118,7 +118,7 @@ assets/gameplay.mp4
 ---
 
 
-## 👩‍💻 Author
+## 👩‍💻 Author 
 
 **Naiya Sharma**
 
