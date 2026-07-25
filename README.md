@@ -6,7 +6,6 @@
 
 A console-based Snake and Ladder game developed in Python. This project recreates the classic board game with two-player gameplay, random dice rolling, snakes, ladders, and a dynamic game board.
 ---
-
 ## 📌 Features
 
 - Two-player gameplay
